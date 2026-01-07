@@ -11,13 +11,7 @@
 <p>Sales_Dataset.csv: Dataset containing sales data for the superstore.</p>
 <p>Sales Analysis & Forecasting Dashboard.pbix: PowerBI file containing the complete dashboard and forecasting model.</p>
 
-<h3>Dashboard Screenshots</h3>
-
-<h2>Superstore Sales Dashboard:</h2>
-<img width="1342" alt="Screenshot 2024-01-19 at 4 14 26 PM" src="https://github.com/chakravarthi-kudumula/Superstore_Sales_Dashboard_using_PowerBI/assets/126746446/32d78167-8abf-4d08-b53e-7db1740b6faa">
-
-<h2>Superstore Sales Forecasting - 15 Days:</h2>
-<img width="1339" alt="Screenshot 2024-01-19 at 4 16 28 PM" src="https://github.com/chakravarthi-kudumula/Superstore_Sales_Dashboard_using_PowerBI/assets/126746446/6f2295d3-68f3-411e-b70d-7193c5d17394">
+<h3>take a look at the Dasboard pdf version for the quick view</h3>
 
 <h3>Usage</h3>
 
